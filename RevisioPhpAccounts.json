@@ -2,5 +2,9 @@
   {
     "id" : "ohdd",
     "pwd" : "glandu"
+  },
+  {
+    "id" : "admin",
+    "pwd" : "idriss"
   }
 ]
