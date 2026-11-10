@@ -1,6 +1,6 @@
-{
+[
   {
     "id" : "ohdd",
-    "psw" : "glandu"
+    "pwd" : "glandu"
   }
-}
+]
